@@ -8,3 +8,5 @@ This is a social media web app where:
   -> you can style your blog content (bold,italic,highlight)
   -> your blog will be listed in all blogs
   -> you can read, edit, delete your blogs as well  
+
+### Live Demo: https://blog-posted.vercel.app/
